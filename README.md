@@ -45,6 +45,11 @@ Projeto desenvolvido durante a formação na Dom Bosco utilizando a stack C# com
 - **Stack:** C#, .NET, MySQL.
 - **Funcionalidades:** Autenticação de usuários, CRUD completo e validação de dados.
 
+### 📊 Análise de Dados - Imersão Python
+Análise exploratória e limpeza de dados reais utilizando a stack de Data Science.
+- **Stack:** Python, Pandas, Matplotlib, Google Colab.
+- **Destaque:** Tratamento de grandes volumes de dados e geração de insights visuais.
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -72,6 +77,11 @@ Projeto desenvolvido durante a formação na Dom Bosco utilizando a stack C# com
 4. 🏗️ Iniciar estudos preparatórios para **Engenharia de Software**.
 
 ---
+## ✉️ Vamos conversar?
+Se você quer trocar uma ideia sobre Python, C# ou oportunidades de colaboração, sinta-se à vontade para me chamar!
+- **E-mail:** [pedrosystems.dev@gmail.com](mailto:pedrosystems.dev@gmail.com)
+- **Instagram:** [@dev.sxss](https://www.instagram.com/dev.sxss/)
+
 
 <div align="center">
   "Codar é transformar lógica em soluções que impactam o mundo."
