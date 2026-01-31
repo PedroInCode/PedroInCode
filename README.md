@@ -5,7 +5,7 @@
 ### 🚀 Desenvolvedor Back-end em Formação | C# | Python | MySQL
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.sxss/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gustavo-systems)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroincode/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosystems.dev@gmail.com)
 
 </div>
@@ -41,18 +41,16 @@
 ## 📂 Projetos em Destaque
 
 ### 🔐 Sistema de Gestão (Cadastro & Login)
-Projeto desenvolvido durante a formação na Dom Bosco utilizando a stack C# com Windows Forms e persistência em MySQL.
-- **Stack:** C#, .NET, MySQL.
-- **Funcionalidades:** Autenticação de usuários, CRUD completo e validação de dados.
+Projeto desenvolvido em C# com Windows Forms e MySQL.
+- **Funcionalidades:** Autenticação e CRUD completo.
 
 ### 📊 Análise de Dados - Imersão Python
-Análise exploratória e limpeza de dados reais utilizando a stack de Data Science.
-- **Stack:** Python, Pandas, Matplotlib, Google Colab.
-- **Destaque:** Tratamento de grandes volumes de dados e geração de insights visuais.
+Análise exploratória utilizando Pandas e Matplotlib.
 
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroInCode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroInCode&layout=compact&langs_count=7&theme=dracula" />
@@ -62,27 +60,16 @@ Análise exploratória e limpeza de dados reais utilizando a stack de Data Scien
 
 ## 🏆 Certificações & Cursos
 
-- **Programação Básica (Lógica):** Estudonauta (80h)
-- **Desenvolvimento C#:** Estudonauta (60h)
-- **Linguagem Python:** Curso em Vídeo / Estudonauta (Em andamento - 120h)
-- **Banco de Dados MySQL:** Curso em Vídeo (40h)
-- **Controle de Versão Git & GitHub:** Curso em Vídeo (20h)
+- **Programação Básica & C#:** Estudonauta (140h)
+- **Linguagem Python:** Curso em Vídeo (Em andamento)
+- **MySQL:** Curso em Vídeo (40h)
+- **Git & GitHub:** Curso em Vídeo (20h)
 
 ---
 
-## 🎯 Objetivos Atuais
-
-1. 🎓 Iniciar e destacar-me no curso técnico do **SENAC**.
-2. 🐍 Finalizar a trilha avançada de **Python**.
-3. 🌐 Evoluir projetos de desktop para **APIs Web** com ASP.NET Core.
-4. 🏗️ Iniciar estudos preparatórios para **Engenharia de Software**.
-
----
 ## ✉️ Vamos conversar?
-Se você quer trocar uma ideia sobre Python, C# ou oportunidades de colaboração, sinta-se à vontade para me chamar!
 - **E-mail:** [pedrosystems.dev@gmail.com](mailto:pedrosystems.dev@gmail.com)
-- **Instagram:** [@dev.sxss](https://www.instagram.com/dev.sxss/)
-
+- **LinkedIn:** [linkedin.com/in/pedroincode/](https://www.linkedin.com/in/pedroincode/)
 
 <div align="center">
   "Codar é transformar lógica em soluções que impactam o mundo."
