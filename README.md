@@ -4,7 +4,7 @@
 
 ### 🚀 Desenvolvedor Back-end em Formação | .NET | C# | Python | MySQL
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.sxss/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrog.cs?igsh=ZGw0b3VoZXBlZXlw&utm_source=qr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroincode/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosystems.dev@gmail.com)
 
@@ -19,7 +19,7 @@
 - 🎓 **Técnico em Desenvolvimento de Sistemas** - SENAC (Abril 2026 - Setembro 2027)
 - 💡 Focado em arquitetura **Back-end** e soluções eficientes.
 - 🛠️ Formado como **Programador de Sistemas** pela Obra Social Dom Bosco (400h+).
-- 📸 Compartilho minha jornada de estudos no Instagram: **[@dev.sxss](https://www.instagram.com/dev.sxss/)**.
+- 📸 Compartilho minha jornada de estudos no Instagram: **[@pedrog.cs](https://www.instagram.com/pedrog.cs?igsh=ZGw0b3VoZXBlZXlw&utm_source=qr)**.
 
 ---
 
