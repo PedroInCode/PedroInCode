@@ -40,11 +40,18 @@ Atualmente, foco minha carreira no ecossistema **Microsoft (.NET/C#)**, unindo a
 
 ## 📂 Projetos em Destaque
 
-### 🎵 [ScreenSound API](https://github.com/SEU_USUARIO/CSharp-LINQ-ScreenSound-API)
-Aplicação C# que consome API externa, utiliza **LINQ** para filtragem de dados e gera exportações em JSON.
+### 🚀 [ProductCatalog.API](https://github.com/PedroInCode/ProductCatalog.API)
+> **Status: Em Desenvolvimento 🏗️**
+API RESTful robusta desenvolvida em **.NET 9** para gerenciamento de catálogo de produtos. 
+- **Tecnologias:** C#, Entity Framework Core, SQL Server e Migrations.
+- **Destaque:** Implementação de boas práticas de arquitetura e persistência de dados.
 
-### 🤠 [RDR2 Interactive Guide](https://github.com/SEU_USUARIO/CSharp-WinForms-RDR2-InteractiveGuide)
-Guia temático desenvolvido em **Windows Forms**, explorando multimídia, manipulação de objetos e eventos.
+### 🎵 [ScreenSound API](https://github.com/PedroInCode/CSharp-LINQ-ScreenSound-API)
+Aplicação C# desenvolvida durante a formação da Alura que consome APIs externas e utiliza **LINQ** para filtragem e manipulação avançada de dados.
+- **Destaque:** Exportação de dados estruturados em JSON e lógica de filtragem dinâmica.
+
+### 🤠 [RDR2 Interactive Guide](https://github.com/PedroInCode/CSharp-WinForms-RDR2-InteractiveGuide)
+Projeto focado em interface desktop com **Windows Forms**, explorando eventos, manipulação de objetos e elementos multimídia.
 
 ---
 
