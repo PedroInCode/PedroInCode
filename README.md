@@ -46,12 +46,14 @@ API RESTful robusta desenvolvida em **.NET 9** para gerenciamento de catálogo d
 - **Tecnologias:** C#, Entity Framework Core, SQL Server e Migrations.
 - **Destaque:** Implementação de boas práticas de arquitetura e persistência de dados.
 
-### 🎵 [ScreenSound API](https://github.com/PedroInCode/CSharp-LINQ-ScreenSound-API)
-Aplicação C# desenvolvida durante a formação da Alura que consome APIs externas e utiliza **LINQ** para filtragem e manipulação avançada de dados.
-- **Destaque:** Exportação de dados estruturados em JSON e lógica de filtragem dinâmica.
+### 📞 [Contact Service](https://github.com/PedroInCode/contact-service-csharp)
+Serviço de gerenciamento de contatos desenvolvido em **C#**, focado em estruturação de dados e lógica de back-end.
+- **Tecnologias:** .NET, Programação Orientada a Objetos (POO).
+- **Destaque:** Organização de código e manipulação eficiente de listas e objetos.
 
-### 🤠 [RDR2 Interactive Guide](https://github.com/PedroInCode/CSharp-WinForms-RDR2-InteractiveGuide)
-Projeto focado em interface desktop com **Windows Forms**, explorando eventos, manipulação de objetos e elementos multimídia.
+### 🎵 [ScreenSound API](https://github.com/PedroInCode/CSharp-LINQ-ScreenSound-API)
+Aplicação que consome APIs externas e utiliza **LINQ** para filtragem e manipulação avançada de dados.
+- **Destaque:** Consumo de serviços externos e exportação de dados em JSON.
 
 ---
 
