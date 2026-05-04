@@ -59,8 +59,12 @@ Aplicação que consome APIs externas e utiliza **LINQ** para filtragem e manipu
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroInCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroInCode&layout=compact&langs_count=7&theme=tokyonight&hide=jupyter%20notebook,batchfile,html"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroInCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroInCode&layout=compact&langs_count=7&theme=tokyonight&hide=jupyter%20notebook,batchfile,html"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroInCode&theme=tokyonight" />
 </div>
 
 ---
