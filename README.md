@@ -32,19 +32,20 @@ Atualmente, foco minha carreira no ecossistema **Microsoft (.NET/C#)**, unindo a
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🗄️ Banco de Dados & Ferramentas
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🚀 [ProductCatalog.API](https://github.com/PedroInCode/ProductCatalog.API)
+### 🚀 [ProCatalog.Ecommerce.API](https://github.com/PedroInCode/ProCatalog.Ecommerce.API)
 > **Status: Em Desenvolvimento 🏗️**
-API RESTful robusta desenvolvida em **.NET 9** para gerenciamento de catálogo de produtos. 
-- **Tecnologias:** C#, Entity Framework Core, SQL Server e Migrations.
-- **Destaque:** Implementação de boas práticas de arquitetura e persistência de dados.
+API RESTful robusta desenvolvida em **.NET 9** para gerenciamento de catálogo de produtos de um e-commerce.
+- **Tecnologias:** C#, Entity Framework Core, SQL Server e DTOs.
+- **Destaque:** Implementação de camadas de serviço (Service Pattern) e arquitetura desacoplada.
 
 ### 📞 [Contact Service](https://github.com/PedroInCode/contact-service-csharp)
 Serviço de gerenciamento de contatos desenvolvido em **C#**, focado em estruturação de dados e lógica de back-end.
