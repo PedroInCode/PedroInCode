@@ -16,11 +16,11 @@
 
 Atualmente, foco minha carreira no ecossistema **Microsoft (.NET/C#)**, unindo a base técnica sólida do **SENAC** com a especialização prática da **Alura**. 
 
-- 🎓 **Técnico em Desenvolvimento de Sistemas** - SENAC (2026-2027)
-- 🚀 **Carreira Back-end .NET** - Alura (Formação Intensiva de 600h+)
-- 🏗️ **Engenharia de Software** - Alura (Foco em arquitetura e boas práticas)
-- 🛠️ **Programador de Sistemas** - Formado pela Obra Social Dom Bosco (400h+)
-- 📸 Compartilho minha evolução diária no Instagram: **[@pedrog.cs](https://www.instagram.com/pedrog.cs)**.
+- 🎓 **Técnico em Desenvolvimento de Sistemas** — SENAC (2026-2027)
+- 🚀 **Formação Back-end .NET & SQL** — Alura (Foco em C#, POO e Banco de Dados Relacional)
+- 🎨 **Fundamentos Web (HTML5 & CSS3)** — Alura (Em andamento / Próxima parada)
+- 🛠️ **Programador de Sistemas** — Formado pela Obra Social Dom Bosco (400h+)
+- 📸 Compartilho minha evolução diária no Instagram: **[@pedrog.cs](https://www.instagram.com/pedrog.cs)**
 
 ---
 
