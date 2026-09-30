@@ -2,108 +2,203 @@
 
 # 👋 Olá, eu sou o Pedro Gustavo!
 
-### 🚀 Desenvolvedor Back-end em Formação | C# | .NET | SQL
+### 💻 Desenvolvedor Back-end em Formação
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrog.cs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroincode/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrosystems.dev@gmail.com)
+**C# • .NET • SQL • APIs**
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/pedrog.cs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedroincode/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pedrosystems.dev@gmail.com)
 
 </div>
 
 ---
 
-## 📌 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Sou estudante de **Desenvolvimento de Sistemas**, com foco no desenvolvimento **Back-end** utilizando o ecossistema **Microsoft**, principalmente **C# e .NET**.
+Sou estudante de **Desenvolvimento de Sistemas**, com foco em **Back-end** e no ecossistema **C# / .NET**.
 
-Atualmente, estou construindo minha base profissional através do **SENAC** e de estudos complementares na **Alura**, aprofundando meus conhecimentos em programação orientada a objetos, APIs, bancos de dados e persistência de dados.
+Atualmente, estou construindo minha base profissional através do **SENAC** e de estudos complementares na **Alura**, colocando em prática conceitos de programação, APIs, orientação a objetos, bancos de dados e persistência de dados.
 
-- 🎓 **Técnico em Desenvolvimento de Sistemas** — SENAC
-- 💻 **Foco:** Desenvolvimento Back-end com C# e .NET
-- 🗄️ **Banco de dados:** SQL Server e MySQL
-- 📚 **Estudos:** C#, .NET, POO, LINQ, APIs e Entity Framework Core
-- 🛠️ **Programador de Sistemas** — Obra Social Dom Bosco (400h+)
-- 📸 Compartilho minha evolução nos estudos: **[@pedrog.cs](https://www.instagram.com/pedrog.cs)**
+* 🎓 **Técnico em Desenvolvimento de Sistemas** — SENAC
+* 💻 **Foco:** Desenvolvimento Back-end
+* ⚙️ **Stack principal:** C# e .NET
+* 🗄️ **Banco de dados:** SQL Server e MySQL
+* 📚 **Estudos:** POO, LINQ, APIs REST e Entity Framework Core
+* 🛠️ **Programador de Sistemas** — Obra Social Dom Bosco (400h+)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧠 Linguagens e Tecnologias
 
-### 💻 Back-end & Linguagens
+<div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" height="65" />
+
+<img src="https://skillicons.dev/icons?i=mysql,postman,git,github" height="65" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Back-end
+
+**Linguagens e Frameworks**
+
+C#
+.NET
+ASP.NET Core
+
+**Desenvolvimento**
+
+APIs REST
+Entity Framework Core
+LINQ
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🗄️ Banco de Dados
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Tecnologias**
 
-### 🧰 Ferramentas
+SQL Server
+MySQL
+SQL
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+**Estudos**
+
+Modelagem de dados
+Persistência de dados
+Consultas SQL
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛠️ Ferramentas
+
+**Desenvolvimento**
+
+Visual Studio
+Postman
+
+**Versionamento**
+
+Git
+GitHub
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 ### 🎬 [FilmesApi](https://github.com/PedroInCode/FilmesApi)
 
-API desenvolvida durante meus estudos de **C# e .NET**, com foco na construção de uma aplicação Back-end para gerenciamento de filmes.
+Projeto desenvolvido durante meus estudos de **C# e .NET**, com foco na prática de desenvolvimento Back-end e construção de APIs.
 
-- **Tecnologias:** C# e .NET
-- **Conceitos:** APIs, organização de código, manipulação de dados e desenvolvimento Back-end
-- **Objetivo:** Aplicar na prática os conhecimentos adquiridos durante os estudos de desenvolvimento de APIs.
+**Tecnologias:** C# • .NET
 
 ---
 
 ### 🔐 [UsuariosApi](https://github.com/PedroInCode/UsuariosApi)
 
-API RESTful desenvolvida em **.NET 8** para cadastro, autenticação e gerenciamento de usuários.
+API desenvolvida em **.NET 8** para gerenciamento de usuários, utilizando recursos do ecossistema ASP.NET Core.
 
-- **Tecnologias:** C#, .NET 8, ASP.NET Core Identity, Entity Framework Core e MySQL
-- **Conceitos:** Autenticação, gerenciamento de identidade, DTOs, migrations, persistência de dados e segurança
-- **Destaque:** Utilização do **ASP.NET Core Identity** para gerenciamento de usuários e armazenamento seguro de senhas.
-- **Segurança:** Utilização de **User Secrets** para manter credenciais de banco de dados fora do controle de versão.
+**Tecnologias:** C# • .NET 8 • ASP.NET Core Identity • Entity Framework Core • MySQL
+
+**Conceitos praticados:**
+
+* Autenticação e gerenciamento de usuários
+* Persistência de dados
+* Migrations
+* DTOs
+* AutoMapper
+* User Secrets
 
 ---
 
 ### 🍷 [LuYuAdega.API](https://github.com/PedroInCode/LuYuAdega.API)
 
-Projeto de desenvolvimento contínuo criado para aplicar e consolidar conhecimentos adquiridos no **SENAC** e na **Alura**.
+Projeto pessoal desenvolvido para colocar em prática os conhecimentos adquiridos no **SENAC** e na **Alura**.
 
-A API tem como objetivo centralizar as regras de negócio de um sistema para uma adega, servindo também como laboratório para evolução da arquitetura e desenvolvimento Back-end.
+A aplicação está sendo construída continuamente como um laboratório para evolução no desenvolvimento Back-end.
 
-- **Tecnologias:** C#, .NET, ASP.NET Core, Entity Framework Core e SQL Server
-- **Conceitos:** APIs REST, DTOs, Service Pattern, Injeção de Dependência, persistência de dados e regras de negócio
-- **Status:** 🚧 Em desenvolvimento
-- **Destaque:** Projeto desenvolvido continuamente conforme avanço nos estudos, permitindo aplicar novos conhecimentos em uma aplicação própria.
+**Tecnologias:** C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server
+
+**Conceitos praticados:**
+
+* APIs REST
+* DTOs
+* Regras de negócio
+* Injeção de Dependência
+* Service Pattern
+* Persistência de dados
+
+**Status:** 🚧 Em desenvolvimento
 
 ---
 
-## 📚 Atualmente Estudando
+## 🎯 Objetivo Profissional
 
-```text
-C# / .NET
-├── Programação Orientada a Objetos
-├── LINQ
-├── APIs REST
-├── ASP.NET Core
-├── Entity Framework Core
-└── Persistência de dados
+Meu objetivo é me especializar no **desenvolvimento Back-end**, construindo uma base sólida em **C# e .NET** e evoluindo profissionalmente na área de desenvolvimento de sistemas.
 
-Banco de Dados
-├── SQL Server
-├── MySQL
-├── SQL
-└── Modelagem e consultas
+Busco transformar meus estudos em projetos práticos, aprofundando meus conhecimentos em:
 
-Ferramentas
-├── Git
-├── GitHub
-└── Visual Studio
+**Arquitetura de Software • APIs • Regras de Negócio • Bancos de Dados • Segurança • Boas Práticas**
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroInCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroInCode&layout=compact&langs_count=7&theme=tokyonight&hide=jupyter%20notebook,batchfile"/>
+
+</div>
+
+<br>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=PedroInCode&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/@pedrog.cs-Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/pedrog.cs)
+
+[![LinkedIn](https://img.shields.io/badge/PedroInCode-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedroincode/)
+
+[![Email](https://img.shields.io/badge/pedrosystems.dev%40gmail.com-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pedrosystems.dev@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### C# • .NET • SQL • Back-end
+
+*"Transformando lógica em soluções que impactam o mundo."*
+
+</div>
