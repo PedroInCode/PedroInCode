@@ -43,61 +43,21 @@ Atualmente, estou construindo minha base profissional através do **SENAC** e de
 
 <br>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
 ### 💻 Back-end
 
-**Linguagens e Frameworks**
-
-C#
-.NET
-ASP.NET Core
-
-**Desenvolvimento**
-
-APIs REST
-Entity Framework Core
-LINQ
-
-</td>
-
-<td width="33%" valign="top">
+**C#** • **.NET** • **ASP.NET Core** • **APIs REST** • **Entity Framework Core** • **LINQ**
 
 ### 🗄️ Banco de Dados
 
-**Tecnologias**
-
-SQL Server
-MySQL
-SQL
-
-**Estudos**
-
-Modelagem de dados
-Persistência de dados
-Consultas SQL
-
-</td>
-
-<td width="33%" valign="top">
+**SQL Server** • **MySQL** • **SQL**
 
 ### 🛠️ Ferramentas
 
-**Desenvolvimento**
+**Git** • **GitHub** • **Visual Studio** • **Postman**
 
-Visual Studio
-Postman
-
-**Versionamento**
-
-Git
-GitHub
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
