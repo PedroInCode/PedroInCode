@@ -142,10 +142,16 @@ Meu objetivo é transformar o conhecimento adquirido nos estudos em experiência
 
 <div align="center">
 
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniBalestriCintra/GiovanniBalestriCintra/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanniBalestriCintra/GiovanniBalestriCintra/output/github-contribution-grid-snake.svg" />
-  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/GiovanniBalestriCintra/GiovanniBalestriCintra/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/PedroInCode/PedroInCode/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/PedroInCode/PedroInCode/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo meus commits"
+       src="https://raw.githubusercontent.com/PedroInCode/PedroInCode/output/github-contribution-grid-snake.svg" />
 </picture>
 
 *"Transformando lógica em soluções que impactam o mundo."* 🚀
