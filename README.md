@@ -1,12 +1,14 @@
- <div align="center">
+<div align="center">
 
-# Pedro Gustavo
+<img src="./header.svg" alt="Pedro Gustavo - Back-end Developer in Progress" width="100%" />
+
+<br/>
 
 **Desenvolvedor Back-end em formação**
 
 Construindo soluções com lógica, código e propósito.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=9CA3AF&center=true&vCenter=true&width=460&lines=C%23+%26+.NET;ASP.NET+Core+%26+APIs+REST;SQL+%26+Persist%C3%AAncia+de+Dados;Aprendendo.+Construindo.+Evoluindo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=B48CE8&center=true&vCenter=true&width=460&lines=C%23+%26+.NET;ASP.NET+Core+%26+APIs+REST;SQL+%26+Persist%C3%AAncia+de+Dados;Aprendendo.+Construindo.+Evoluindo.)](https://git.io/typing-svg)
 
 [GitHub](https://github.com/PedroInCode) · [LinkedIn](https://www.linkedin.com/in/pedroincode/) · [Instagram](https://www.instagram.com/pedrog.cs) · [E-mail](mailto:pedrosystems.dev@gmail.com)
 
@@ -74,12 +76,12 @@ Projeto de estudos voltado à construção de APIs e à consolidação dos funda
 ## GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroInCode&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroInCode&layout=compact&langs_count=7&theme=github_dark&hide_border=true&hide=jupyter%20notebook,batchfile" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroInCode&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0B0B0E&title_color=B48CE8&icon_color=854CC7" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroInCode&layout=compact&langs_count=7&theme=github_dark&hide_border=true&hide=jupyter%20notebook,batchfile&bg_color=0B0B0E&title_color=B48CE8" alt="Linguagens mais utilizadas" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PedroInCode&theme=dark&hide_border=true" alt="Sequência de contribuições no GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=PedroInCode&theme=dark&hide_border=true&background=0B0B0E&ring=854CC7&fire=B48CE8&currStreakLabel=B48CE8&sideLabels=B48CE8" alt="Sequência de contribuições no GitHub" />
 </div>
 
 ---
