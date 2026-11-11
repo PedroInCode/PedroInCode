@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header-v2.svg" alt="Pedro Gustavo - Back-end Developer in Progress" width="100%" />
+<img src="./header.svg" alt="Pedro Gustavo - Back-end Developer in Progress" width="100%" />
 
 <br/>
 
