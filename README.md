@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Pedro Gustavo - Back-end Developer in Progress" width="100%" />
+<img src="./header-v2.svg" alt="Pedro Gustavo - Back-end Developer in Progress" width="100%" />
 
 <br/>
 
@@ -32,16 +32,36 @@ Venho construindo minha base técnica por meio de estudos complementares e proje
 
 <br/>
 
-### Stack
+### Tecnologias e Ferramentas
 
-**Back-end**<br/>
+💻 **Back-end**<br/>
 `C#` `.NET` `ASP.NET Core` `APIs REST` `Entity Framework Core` `LINQ`
 
-**Banco de dados**<br/>
+🗄️ **Banco de dados**<br/>
 `SQL Server` `MySQL` `MariaDB` `SQL`
 
-**Ferramentas**<br/>
-`Visual Studio` `Git` `GitHub` `Postman`
+🛠️ **Ferramentas**<br/>
+`Git` `GitHub` `Visual Studio` `Postman`
+
+🖥️ **Virtualização**<br/>
+`Oracle VirtualBox`
+
+<div align="center">
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,git,github" alt="Tecnologias" />
+
+<br/><br/>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+</div>
 
 <br/>
 
