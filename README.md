@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&text=Pedro%20Gustavo&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=Desenvolvedor%20Back-end%20em%20forma%C3%A7%C3%A3o&descSize=16&descColor=8B949E&descAlignY=68" width="100%" alt="Pedro Gustavo - Desenvolvedor Back-end em formação" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161B22,100:30363D&height=240&section=header&text=Pedro%20Gustavo&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Back-end%20%E2%80%A2%20C%23%20%7C%20.NET%20%7C%20SQL&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Pedro Gustavo - Desenvolvedor Back-end em formação" />
 
 Construindo soluções com lógica, código e propósito.
 
@@ -18,17 +18,15 @@ Sou estudante de Técnico em Desenvolvimento de Sistemas no SENAC, com foco em d
 
 Venho construindo minha base técnica por meio de estudos complementares e projetos práticos, aplicando conceitos de programação orientada a objetos, APIs REST, persistência de dados e organização de código.
 
-|  |  |
-|---|---|
-| **Formação** | Técnico em Desenvolvimento de Sistemas, SENAC |
-| **Complementar** | Programador de Sistemas, Obra Social Dom Bosco |
-| **Interesse** | Desenvolvimento back-end |
+**Formação** &nbsp;·&nbsp; Técnico em Desenvolvimento de Sistemas, SENAC<br/>
+**Complementar** &nbsp;·&nbsp; Programador de Sistemas, Obra Social Dom Bosco<br/>
+**Interesse** &nbsp;·&nbsp; Desenvolvimento back-end
 
 <br/>
 
 ## Tecnologias
 
-|  |  |
+| Área | Tecnologias |
 |---|---|
 | **Back-end** | C# · .NET · ASP.NET Core · APIs REST · Entity Framework Core · LINQ |
 | **Banco de dados** | SQL Server · MySQL · MariaDB · SQL |
@@ -98,5 +96,7 @@ Projeto de estudos voltado à construção de APIs e à consolidação dos funda
 <br/>
 
 <sub>C# · .NET · Back-end</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:161B22,100:000000&height=110&section=footer" width="100%" alt="" />
 
 </div>
