@@ -1,50 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Pedro Gustavo - Back-end Developer in Progress</title>
-  <desc id="desc">Banner quase preto com o nome Pedro Gustavo, subtítulo Back-end Developer in Progress e uma janela de editor com código C#, com pequenos detalhes em roxo.</desc>
+  <desc id="desc">Banner minimalista em preto e cinza com o nome Pedro Gustavo, subtítulo Back-end Developer in Progress, tecnologias C#, .NET, ASP.NET Core e EF Core, e uma janela de editor com código C#.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#060607"/>
-      <stop offset="100%" stop-color="#121216"/>
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#0F0F10"/>
     </linearGradient>
 
-    <!-- Brilho roxo bem sutil, estático -->
-    <radialGradient id="glow" cx="0.9" cy="0.1" r="0.4">
-      <stop offset="0%" stop-color="#854CC7" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#854CC7" stop-opacity="0"/>
-    </radialGradient>
-
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#5C2D91"/>
-      <stop offset="100%" stop-color="#B48CE8"/>
-    </linearGradient>
-
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#854CC7" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#854CC7" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#854CC7" stop-opacity="0"/>
-    </linearGradient>
-
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#C9C9D1"/>
+      <stop offset="100%" stop-color="#A8A8B0"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.15"/>
     </linearGradient>
 
     <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.05"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.015"/>
+      <stop offset="0%" stop-color="#1B1B1D"/>
+      <stop offset="100%" stop-color="#0C0C0D"/>
     </linearGradient>
 
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
-    </pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
 
     <clipPath id="round">
       <rect width="1200" height="320" rx="20"/>
     </clipPath>
 
     <clipPath id="typeClip">
-      <rect class="reveal" x="92" y="184" width="560" height="34"/>
+      <rect class="reveal" x="92" y="186" width="420" height="30"/>
     </clipPath>
   </defs>
 
@@ -52,24 +42,23 @@
     .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'Courier New', monospace; }
 
-    .pill  { animation: fadeIn 0.6s ease-out 0.1s both; }
-    .name  { animation: fadeIn 0.7s ease-out 0.3s both; }
-    .rule  { transform-box: fill-box; transform-origin: left center; animation: grow 0.6s ease-out 0.8s both; }
-    .tags  { animation: fadeIn 0.6s ease-out 2.6s both; }
-    .win   { animation: fadeIn 0.8s ease-out 0.4s both; }
-    .l1    { animation: fadeIn 0.4s ease-out 1.1s both; }
-    .l2    { animation: fadeIn 0.4s ease-out 1.5s both; }
-    .l3    { animation: fadeIn 0.4s ease-out 1.9s both; }
-    .l4    { animation: fadeIn 0.4s ease-out 2.3s both; }
+    .pill { animation: fadeIn 0.6s ease-out 0.1s both; }
+    .name { animation: fadeIn 0.8s ease-out 0.3s both; }
+    .rule { transform-box: fill-box; transform-origin: left center; animation: grow 0.7s ease-out 0.8s both; }
+    .tags { animation: fadeIn 0.6s ease-out 2.6s both; }
+    .win  { animation: fadeIn 0.8s ease-out 0.4s both; }
+    .l1   { animation: fadeIn 0.4s ease-out 1.1s both; }
+    .l2   { animation: fadeIn 0.4s ease-out 1.5s both; }
+    .l3   { animation: fadeIn 0.4s ease-out 1.9s both; }
+    .l4   { animation: fadeIn 0.4s ease-out 2.3s both; }
 
-    .reveal { transform-box: fill-box; transform-origin: left center; animation: type 1.4s linear 1s both; }
-    .cursor { animation: move 1.4s linear 1s both, blink 1s steps(1) 2.4s infinite; }
+    .reveal { transform-box: fill-box; transform-origin: left center; animation: grow 1.4s steps(30) 1s both; }
+    .cursor { animation: move 1.4s steps(30) 1s both, blink 1s steps(1) 2.4s infinite; }
     .caret  { animation: blink 1s steps(1) 2.8s infinite; }
 
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
     @keyframes grow   { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-    @keyframes type   { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-    @keyframes move   { from { transform: translateX(0); } to { transform: translateX(552px); } }
+    @keyframes move   { from { transform: translateX(0); } to { transform: translateX(417px); } }
     @keyframes blink  { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
 
     @media (prefers-reduced-motion: reduce) {
@@ -78,71 +67,67 @@
   </style>
 
   <g clip-path="url(#round)">
-    <!-- Fundo quase preto -->
+    <!-- Fundo -->
     <rect width="1200" height="320" fill="url(#bg)"/>
-    <rect width="1200" height="320" fill="url(#grid)"/>
-    <rect width="1200" height="320" fill="url(#glow)"/>
 
     <!-- Etiqueta -->
     <g class="pill">
       <rect x="92" y="40" width="322" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.16"/>
-      <circle cx="109" cy="54" r="4" fill="#854CC7"/>
-      <text class="mono" x="122" y="59" font-size="13" fill="#A9A9B5" textLength="278" lengthAdjust="spacing">SENAC · Desenvolvimento de Sistemas</text>
+      <circle cx="109" cy="54" r="4" fill="#F2F2F5"/>
+      <text class="mono" x="122" y="59" font-size="13" fill="#9A9AA4" textLength="278" lengthAdjust="spacing">SENAC · Desenvolvimento de Sistemas</text>
     </g>
 
     <!-- Nome -->
-    <text class="sans name" x="90" y="150" font-size="72" font-weight="800" fill="url(#nameGrad)" textLength="600" lengthAdjust="spacing">PEDRO GUSTAVO</text>
-    <rect class="rule" x="92" y="166" width="72" height="4" rx="2" fill="url(#accent)"/>
+    <text class="sans name" x="90" y="150" font-size="68" font-weight="800" letter-spacing="1" fill="url(#name)">PEDRO GUSTAVO</text>
+    <rect class="rule" x="92" y="166" width="96" height="3" rx="1.5" fill="url(#rule)"/>
 
     <!-- Subtítulo digitado -->
     <g clip-path="url(#typeClip)">
-      <text class="sans" x="92" y="208" font-size="22" font-weight="600" fill="#9A9AA6" textLength="552" lengthAdjust="spacing">BACK-END DEVELOPER IN PROGRESS</text>
+      <text class="mono" x="92" y="208" font-size="20" font-weight="600" fill="#8E8E98" textLength="414" lengthAdjust="spacing">BACK-END DEVELOPER IN PROGRESS</text>
     </g>
-    <rect class="cursor" x="92" y="188" width="3" height="28" fill="#B48CE8"/>
+    <rect class="cursor" x="92" y="190" width="2" height="24" fill="#FFFFFF"/>
 
     <!-- Tags -->
-    <g class="mono tags" font-size="14" font-weight="600">
-      <rect x="92" y="244" width="52" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.18"/>
-      <text x="118" y="264" text-anchor="middle" fill="#D9D9E0">C#</text>
-
-      <rect x="154" y="244" width="64" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.18"/>
-      <text x="186" y="264" text-anchor="middle" fill="#D9D9E0">.NET</text>
-
-      <rect x="228" y="244" width="130" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.18"/>
-      <text x="293" y="264" text-anchor="middle" fill="#D9D9E0">ASP.NET Core</text>
-
-      <rect x="368" y="244" width="92" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.18"/>
-      <text x="414" y="264" text-anchor="middle" fill="#D9D9E0">EF Core</text>
+    <g class="mono tags" font-size="13" font-weight="600" text-anchor="middle">
+      <rect x="92" y="244" width="46" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="115" y="263" fill="#D4D4DA">C#</text>
+      <rect x="148" y="244" width="62" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="179" y="263" fill="#D4D4DA">.NET</text>
+      <rect x="220" y="244" width="122" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="281" y="263" fill="#D4D4DA">ASP.NET Core</text>
+      <rect x="352" y="244" width="86" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="395" y="263" fill="#D4D4DA">EF Core</text>
     </g>
 
     <!-- Janela de editor -->
     <g class="win">
-      <rect x="770" y="52" width="350" height="216" rx="16" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <rect x="770" y="52" width="350" height="216" rx="16" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.12"/>
       <path d="M 770 68 a 16 16 0 0 1 16 -16 H 1104 a 16 16 0 0 1 16 16 V 92 H 770 Z" fill="#FFFFFF" fill-opacity="0.04"/>
-      <circle cx="792" cy="72" r="5" fill="#FFFFFF" fill-opacity="0.18"/>
-      <circle cx="810" cy="72" r="5" fill="#FFFFFF" fill-opacity="0.18"/>
-      <circle cx="828" cy="72" r="5" fill="#FFFFFF" fill-opacity="0.18"/>
-      <text class="mono" x="945" y="76" font-size="12" fill="#8A8A96" text-anchor="middle">Program.cs</text>
+      <line x1="770" y1="92" x2="1120" y2="92" stroke="#FFFFFF" stroke-opacity="0.07"/>
+      <circle cx="792" cy="72" r="5" fill="#FFFFFF" fill-opacity="0.2"/>
+      <circle cx="810" cy="72" r="5" fill="#FFFFFF" fill-opacity="0.2"/>
+      <circle cx="828" cy="72" r="5" fill="#FFFFFF" fill-opacity="0.2"/>
+      <text class="mono" x="945" y="76" font-size="12" fill="#7C7C86" text-anchor="middle">Program.cs</text>
 
-      <g class="mono" font-size="15">
+      <g class="mono" font-size="15" xml:space="preserve">
         <g class="l1">
-          <text x="790" y="126" fill="#55555F">1</text>
-          <text x="815" y="126" xml:space="preserve"><tspan fill="#B48CE8">var</tspan><tspan fill="#E0E0E6"> app = builder.Build();</tspan></text>
+          <text x="790" y="128" fill="#4E4E57">1</text>
+          <text x="815" y="128"><tspan fill="#FFFFFF" font-weight="700">var</tspan><tspan fill="#CFCFD6"> app = builder.Build();</tspan></text>
         </g>
         <g class="l2">
-          <text x="790" y="156" fill="#55555F">2</text>
-          <text x="815" y="156" xml:space="preserve"><tspan fill="#E0E0E6">app.MapGet(</tspan><tspan fill="#A9A9B5">"/"</tspan><tspan fill="#E0E0E6">, () =&gt; </tspan><tspan fill="#A9A9B5">"Olá!"</tspan><tspan fill="#E0E0E6">);</tspan></text>
+          <text x="790" y="158" fill="#4E4E57">2</text>
+          <text x="815" y="158"><tspan fill="#CFCFD6">app.MapGet(</tspan><tspan fill="#8E8E98">"/"</tspan><tspan fill="#CFCFD6">, () =&gt; </tspan><tspan fill="#8E8E98">"Olá!"</tspan><tspan fill="#CFCFD6">);</tspan></text>
         </g>
         <g class="l3">
-          <text x="790" y="186" fill="#55555F">3</text>
-          <text x="815" y="186" fill="#E0E0E6">app.Run();</text>
+          <text x="790" y="188" fill="#4E4E57">3</text>
+          <text x="815" y="188" fill="#CFCFD6">app.Run();</text>
         </g>
         <g class="l4">
-          <text x="790" y="226" fill="#55555F">4</text>
-          <text x="815" y="226" fill="#6B6B76" textLength="180" lengthAdjust="spacing">// sempre aprendendo</text>
+          <text x="790" y="228" fill="#4E4E57">4</text>
+          <text x="815" y="228" fill="#5F5F69">// sempre aprendendo</text>
         </g>
       </g>
-      <rect class="caret" x="999" y="212" width="2" height="18" fill="#B48CE8"/>
+      <rect class="caret" x="1000" y="213" width="2" height="18" fill="#FFFFFF"/>
     </g>
 
     <!-- Linha inferior fina -->
